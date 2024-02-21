@@ -1,0 +1,10 @@
+Z:\Datorika_10.kl\KS_naudasApr\bin\Debug\KS_naudasApr.exe.config
+Z:\Datorika_10.kl\KS_naudasApr\bin\Debug\KS_naudasApr.exe
+Z:\Datorika_10.kl\KS_naudasApr\bin\Debug\KS_naudasApr.pdb
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.csprojAssemblyReference.cache
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.Form1.resources
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.Properties.Resources.resources
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.csproj.GenerateResource.cache
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.csproj.CoreCompileInputs.cache
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.exe
+Z:\Datorika_10.kl\KS_naudasApr\obj\Debug\KS_naudasApr.pdb
